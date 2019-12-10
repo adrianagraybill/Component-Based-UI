@@ -1,4 +1,4 @@
-# Lab-26-Component-Based-UI
+# Component-Based-UI
 
 ### Author: Adriana
 
