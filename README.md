@@ -1,6 +1,6 @@
 # Component-Based-UI
 
-### Author: Adriana
+### Author: Adriana Graybill
 
 ### Links and Resources
 
